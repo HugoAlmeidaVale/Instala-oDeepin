@@ -1,10 +1,6 @@
 ##Vamos aprender a instalar o Deepin
-<style>
-.img{
-Height="150px"	Width="200px"
-}
-</style>
-<img src="Tux.png"/>
+
+<img Height="150px"	Width="200px" src="Tux.png"/>
 
 You can use the [editor on GitHub](https://github.com/HugoAlmeidaVale/Instala-oDeepin/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
