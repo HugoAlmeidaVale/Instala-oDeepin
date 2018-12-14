@@ -1,8 +1,10 @@
 # Vamos aprender a instalar o Deepin-Linux
-
-<img Height="150px"	 src="Tux.png"/>
-
-  Hoje vamos mostrar um passo a passo de como instalar o Deepin. Mas antes de darmos inicio, vamos saber o que é o Deepin:
+' <div class= "roll">
+    <div class = "col-md-4">
+      <img Height="150px"	 src="Tux.png"/></div>
+  <div class = "col-md-8"> 
+  Hoje vamos mostrar um passo a passo de como instalar o Deepin. Mas antes de darmos inicio, vamos saber o que é o Deepin:</div>
+  </div>'
   
   Fundada em 2011, Wuhan Deepin Technology Co., Ltd. (doravante referido como Deepin Technology) é uma empresa comercial focada no R&D e sistema operacional doméstico chinês baseado em linux.
 
