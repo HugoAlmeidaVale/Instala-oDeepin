@@ -1,4 +1,4 @@
-## Vamos aprender a instalar o Deepin-Linux
+# Vamos aprender a instalar o Deepin-Linux
 
 <img Height="150px"	 src="Tux.png"/>
 
@@ -14,7 +14,7 @@ O sistema operacional Deepin prover 30 diferentes versões de linguagens e mais 
 
 No futuro, a Deepin Technology continuará a aderir ao código-aberto e espírito inovador; Aproveitar a oportunidade de um sistema operacional autônomo, controlável e substituível para ser o principal fornecedor no mercado chinês dentro de três anos; E tornar-se o principal fornecedor com uma influência internacional em cinco anos. 
 
-# Passo a passo para instalação:
+## Passo a passo para instalação:
 
 ### 1.
 
