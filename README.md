@@ -1,6 +1,6 @@
 ## Vamos aprender a instalar o Deepin-Linux
 
-<img Height="150px"	Width="200px" src="Tux.png"/>
+<img Height="150px"	 src="Tux.png"/>
 
   Hoje vamos mostrar um passo a passo de como instalar o Deepin. Mas antes de darmos inicio, vamos saber o que é o Deepin:
   
