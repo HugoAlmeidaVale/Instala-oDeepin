@@ -1,4 +1,4 @@
-##Vamos aprender a instalar o Deepin
+## Vamos aprender a instalar o Deepin
 
 <img Height="150px"	Width="200px" src="Tux.png"/>
 
