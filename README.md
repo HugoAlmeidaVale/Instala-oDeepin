@@ -2,17 +2,19 @@
 
    <img Height="150px"	 src="Tux.png"/>
  
-  Hoje vamos mostrar um passo a passo de como instalar o Deepin. Mas antes de darmos inicio, vamos saber o que é o Deepin:
+  Hoje vamos mostrar um passo a passo de como instalar o Mint_Linux. Mas antes de darmos inicio, vamos saber o que é o Mint_Linux:
   
-  Fundada em 2011, Wuhan Deepin Technology Co., Ltd. (doravante referido como Deepin Technology) é uma empresa comercial focada no R&D e sistema operacional doméstico chinês baseado em linux.
+  O objetivo do Linux Mint é produzir um sistema operacional moderno, elegante e confortável, que seja poderoso e fácil de usar.
 
-Como a principal equipe de pesquisa e desenvolvimento de sistemas operacionais na China, a Deepin Technology visa fornecer um sistema operacional doméstico seguro, confiável, bonito e fácil de usar com soluções de código aberto. Há muitos profissionais em pesquisa e desenvolvimento de sistemas, customização da indústria, internacionalização, portabilidade e adaptação, design de interação, serviço de suporte e treinamento, que podem atender a uma ampla gama de necessidades de produtos de sistemas operacionais de diferentes usuários e cenários de aplicação.
+O Linux Mint é uma das distribuições Linux de desktop mais populares e usado por milhões de pessoas.
 
-Como criadora da ecologia do sistema operacional chinês, a Deepin Technology não só construiu relações de trabalho estreitas com chip, computador, middleware, banco de dados e outros fabricantes, mas também desenvolveu em conjunto muitas aplicações para usuários chineses com Kingsoft, NetEase, Crossover e outras empresas. Seu produto do sistema operacional tem sido amplamente utilizado no governo, finanças, comunicação, educação e outros campos.
+Algumas das razões para o sucesso do Linux Mint são:
 
-O sistema operacional Deepin prover 30 diferentes versões de linguagens e mais de 70 mirror sites para atualizar seus serviços através de 6 continentes com mais de 40 milhões de downloads em 2015. No ranking da global open source operating system, o sistema operacional Deepin irá se manter no Top 20 e também é um sistema operacional Chinês com a maior classificação.
-
-No futuro, a Deepin Technology continuará a aderir ao código-aberto e espírito inovador; Aproveitar a oportunidade de um sistema operacional autônomo, controlável e substituível para ser o principal fornecedor no mercado chinês dentro de três anos; E tornar-se o principal fornecedor com uma influência internacional em cinco anos. 
+Funciona fora da caixa, com suporte multimídia completo e é extremamente fácil de usar.
+É livre de custos e de código aberto.
+É dirigido pela comunidade. Os usuários são encorajados a enviar feedback ao projeto para que suas ideias possam ser usadas para melhorar o Linux Mint.
+Baseado no Debian e no Ubuntu, ele fornece cerca de 30.000 pacotes e um dos melhores gerenciadores de software.
+É seguro e confiável. Graças a uma abordagem conservadora para atualizações de software, um exclusivo Gerenciador de Atualizações e a robustez de sua arquitetura Linux, o Linux Mint requer pouca manutenção (sem regressões, sem antivírus, sem anti-spyware ... etc.). 
 
 ## Passo a passo para instalação:
 
