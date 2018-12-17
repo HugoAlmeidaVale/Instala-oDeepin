@@ -1,4 +1,4 @@
-# Vamos aprender a instalar o Deepin-Linux
+# Vamos aprender a instalar o Mint-Linux
 
    <img Height="150px"	 src="Tux.png"/>
  
