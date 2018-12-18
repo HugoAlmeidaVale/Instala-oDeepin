@@ -10,11 +10,12 @@ O Linux Mint é uma das distribuições Linux de desktop mais populares e usado 
 
 Algumas das razões para o sucesso do Linux Mint são:
 
-'<p>'Funciona fora da caixa, com suporte multimídia completo e é extremamente fácil de usar.
+Funciona fora da caixa, com suporte multimídia completo e é extremamente fácil de usar.
 É livre de custos e de código aberto.
 É dirigido pela comunidade. Os usuários são encorajados a enviar feedback ao projeto para que suas ideias possam ser usadas para melhorar o Linux Mint.
 Baseado no Debian e no Ubuntu, ele fornece cerca de 30.000 pacotes e um dos melhores gerenciadores de software.
-É seguro e confiável. Graças a uma abordagem conservadora para atualizações de software, um exclusivo Gerenciador de Atualizações e a robustez de sua arquitetura Linux, o Linux Mint requer pouca manutenção (sem regressões, sem antivírus, sem anti-spyware ... etc.).'</p><br/>' 
+É seguro e confiável. Graças a uma abordagem conservadora para atualizações de software, um exclusivo Gerenciador de Atualizações e a robustez de sua arquitetura Linux, o Linux Mint requer pouca manutenção (sem regressões, sem antivírus, sem anti-spyware ... etc.).
+
 **OBS :** O processo de instalação do sistema operacional será feito a partir do Virtual Box cuja as comfigurações da Maquina estão a seguir.
 
 ## Passo a passo para instalação:
