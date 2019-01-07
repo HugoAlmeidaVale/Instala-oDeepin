@@ -32,24 +32,26 @@ Baseado no Debian e no Ubuntu, ele fornece cerca de 30.000 pacotes e um dos melh
    
 ### 3.   Selecionne o tipo de instalaçãoe clique em continuar até chegar a próxima etapa do Tutorial:
    <img Height="300px"	 src="10.PNG"/>
+
 **OBS:** Nesse caso no tutorial foi utilizada a opção de formattar o disco e instalar o Linux sem Partições, po´rm indo pela opção avançada tem mais opções de particionamento e etc.
 
 
 ### 4.   Usuario e senha:
    <img Height="300px"	 src="12.PNG"/>
+
 **OBS:** A senha é opicional.
 
 
 ### 5.   Aguarde a finalização da instalação e reinicie a máquina:
-<img Height="300px"	 src="13.PNG"/><img Height="300px"	 src="14.PNG"/>
+<img Height="300px"	 src="13.PNG"/> <img Height="300px"	 src="14.PNG"/>
 
 
 ### Agora a proveite esse mundo de poscibilidades qu é o Linux atravez da distribuição Mint:
 <img Height="300px"	 src="15.PNG"/>
 
 ```markdown
-**Tutorial feito por:** Hugo de Almeida Póvoa do Vale
+Tutorial feito por: Hugo de Almeida Póvoa do Vale
 
-_Senac Duque de Caxias-RJ_
+Senac Duque de Caxias-RJ
 
 ```
