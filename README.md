@@ -18,7 +18,7 @@ Baseado no Debian e no Ubuntu, ele fornece cerca de 30.000 pacotes e um dos melh
 
 **OBS :** O processo de instalação do sistema operacional será feito a partir do Virtual Box, e o sistema ultilizado é o Cinnamon.
 
-**Link para Dowload do Mint_Linux :**[https://linuxmint.com/download.php]
+**Link para Dowload do Mint_Linux :**<a href = "https://linuxmint.com/download.php">Clique aqui<a/>
 
 ## Passo a passo para instalação:
 
