@@ -16,11 +16,11 @@ Funciona fora da caixa, com suporte multimídia completo e é extremamente fáci
 Baseado no Debian e no Ubuntu, ele fornece cerca de 30.000 pacotes e um dos melhores gerenciadores de software.
 É seguro e confiável. Graças a uma abordagem conservadora para atualizações de software, um exclusivo Gerenciador de Atualizações e a robustez de sua arquitetura Linux, o Linux Mint requer pouca manutenção (sem regressões, sem antivírus, sem anti-spyware ... etc.).
 
-**OBS :** O processo de instalação do sistema operacional será feito a partir do Virtual Box cuja as comfigurações da Maquina estão a seguir.
+**OBS :** O processo de instalação do sistema operacional será feito a partir do Virtual Box.
 
 ## Passo a passo para instalação:
 
-### 1.
+### 1.<img Height="150px"	 src="Instala o Mint/6.png"/>
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
