@@ -1,6 +1,6 @@
 # Vamos aprender a instalar o Mint-Linux
 
-   <img Height="150px"	 src="Tux.png"/>
+   <img Height="150px"	 src="Tux.png"/> <img Height="150px"	 src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/1029px-Linux_Mint_logo_without_wordmark.svg.png"/>
  
   Hoje vamos mostrar um passo a passo de como instalar o Mint_Linux. Mas antes de darmos inicio, vamos saber o que é o Mint_Linux:
   
