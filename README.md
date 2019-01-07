@@ -46,7 +46,7 @@ Baseado no Debian e no Ubuntu, ele fornece cerca de 30.000 pacotes e um dos melh
 <img Height="450px"	 src="13.PNG"/> <img Height="450px"	 src="14.PNG"/>
 
 
-### Agora a proveite esse mundo de pocibilidades qu é o Linux atravez da distribuição Mint:
+### Agora a proveite esse mundo de pocibilidades que é o Linux atravez da distribuição Mint:
 <img Height="450px"	 src="15.PNG"/>
 
 ```markdown
