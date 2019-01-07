@@ -36,7 +36,7 @@ Baseado no Debian e no Ubuntu, ele fornece cerca de 30.000 pacotes e um dos melh
 **OBS:** Nesse caso no tutorial foi utilizada a opção de formattar o disco e instalar o Linux sem Partições, porém indo pela opção avançada tem mais opções de particionamento e etc.
 
 
-### 4.   Usuario e senha:
+### 4.   Usuário e senha:
    <img Height="450px"	 src="12.PNG"/>
 
 **OBS:** A senha é opicional.
@@ -46,7 +46,7 @@ Baseado no Debian e no Ubuntu, ele fornece cerca de 30.000 pacotes e um dos melh
 <img Height="450px"	 src="13.PNG"/> <img Height="450px"	 src="14.PNG"/>
 
 
-### Agora a proveite esse mundo de poscibilidades qu é o Linux atravez da distribuição Mint:
+### Agora a proveite esse mundo de pocibilidades qu é o Linux atravez da distribuição Mint:
 <img Height="450px"	 src="15.PNG"/>
 
 ```markdown
