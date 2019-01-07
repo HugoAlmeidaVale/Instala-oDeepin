@@ -16,43 +16,40 @@ Funciona fora da caixa, com suporte multimídia completo e é extremamente fáci
 Baseado no Debian e no Ubuntu, ele fornece cerca de 30.000 pacotes e um dos melhores gerenciadores de software.
 É seguro e confiável. Graças a uma abordagem conservadora para atualizações de software, um exclusivo Gerenciador de Atualizações e a robustez de sua arquitetura Linux, o Linux Mint requer pouca manutenção (sem regressões, sem antivírus, sem anti-spyware ... etc.).
 
-**OBS :** O processo de instalação do sistema operacional será feito a partir do Virtual Box.
+**OBS :** O processo de instalação do sistema operacional será feito a partir do Virtual Box, e o sistema ultilizado é o Cinnamon.
+
+**Link para Dowload do Mint_Linux :**[https://linuxmint.com/download.php]
 
 ## Passo a passo para instalação:
 
-### 1.<img Height="150px"	 src="6.PNG"/>
+### 1.   Ao execultar a ISO(DVD) ou arquivo de BOOT clique em **Install Linux Mint** para prosseguir com a instalação:
+   <img Height="300px"	 src="6.PNG"/>
+   
+   
+### 2.   Selecione a Lingua desejada e o Layout e clique em continuar até chegar a próxima etapa do Tutorial:
+   <img Height="300px"	 src="8.PNG"/>
+   
+   
+### 3.   Selecionne o tipo de instalaçãoe clique em continuar até chegar a próxima etapa do Tutorial:
+   <img Height="300px"	 src="10.PNG"/>
+**OBS:** Nesse caso no tutorial foi utilizada a opção de formattar o disco e instalar o Linux sem Partições, po´rm indo pela opção avançada tem mais opções de particionamento e etc.
 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 4.   Usuario e senha:
+   <img Height="300px"	 src="12.PNG"/>
+**OBS:** A senha é opicional.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 5.   Aguarde a finalização da instalação e reinicie a máquina:
+<img Height="300px"	 src="13.PNG"/><img Height="300px"	 src="14.PNG"/>
+
+
+### Agora a proveite esse mundo de poscibilidades qu é o Linux atravez da distribuição Mint:
+<img Height="300px"	 src="15.PNG"/>
 
 ```markdown
-Syntax highlighted code block
+**Tutorial feito por:** Hugo de Almeida Póvoa do Vale
 
-# Header 1
-## Header 2
-### Header 3
+_Senac Duque de Caxias-RJ_
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HugoAlmeidaVale/Instala-oDeepin/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
