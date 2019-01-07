@@ -43,7 +43,7 @@ Baseado no Debian e no Ubuntu, ele fornece cerca de 30.000 pacotes e um dos melh
 
 
 ### 5.   Aguarde a finalização da instalação e reinicie a máquina:
-<img Height="450px"	 src="13.PNG"/> <img Height="300px"	 src="14.PNG"/>
+<img Height="450px"	 src="13.PNG"/> <img Height="450px"	 src="14.PNG"/>
 
 
 ### Agora a proveite esse mundo de poscibilidades qu é o Linux atravez da distribuição Mint:
