@@ -20,7 +20,7 @@ Baseado no Debian e no Ubuntu, ele fornece cerca de 30.000 pacotes e um dos melh
 
 ## Passo a passo para instalação:
 
-### 1.<img Height="150px"	 src="6.png"/>
+### 1.<img Height="150px"	 src="6.PNG"/>
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
